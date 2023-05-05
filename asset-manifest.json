@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Appointment/static/css/main.bf7605b3.css",
+    "main.js": "/Appointment/static/js/main.be87b666.js",
+    "static/js/787.3d47da8d.chunk.js": "/Appointment/static/js/787.3d47da8d.chunk.js",
+    "static/media/registernow.gif": "/Appointment/static/media/registernow.417cadd5fcb63c30414f.gif",
+    "index.html": "/Appointment/index.html",
+    "main.bf7605b3.css.map": "/Appointment/static/css/main.bf7605b3.css.map",
+    "main.be87b666.js.map": "/Appointment/static/js/main.be87b666.js.map",
+    "787.3d47da8d.chunk.js.map": "/Appointment/static/js/787.3d47da8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf7605b3.css",
+    "static/js/main.be87b666.js"
+  ]
+}
